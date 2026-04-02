@@ -77,7 +77,7 @@ If push STILL fails: comment the full error on the issue and DO NOT close it.
 ## Step 7: Close the issue
 
 ONLY if push succeeded:
-1. Comment with 2-3 bullet summary of what was done
+1. Comment with 2-3 bullet summary of what was done. **Always include GitHub links to every file you created or modified** (use the format `https://github.com/{owner}/{repo}/blob/main/{path}`). Never reference a file by name without linking to it.
 2. Close the issue: `gh issue close <number>`
 
 If push failed: leave the issue OPEN with the error in a comment.
