@@ -1,0 +1,6 @@
+{
+  "outputDirectory": "dashboard",
+  "buildCommand": "exit 0",
+  "installCommand": "exit 0",
+  "framework": null
+}
