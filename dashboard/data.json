@@ -1,0 +1,163 @@
+{
+  "factory": {
+    "name": "depot",
+    "description": "AI Newsletter Dark Factory",
+    "repo": "david0723/fialka-factory"
+  },
+  "stats": {
+    "open_tasks": 0,
+    "closed_today": 2,
+    "closed_this_week": 7,
+    "total_closed": 7
+  },
+  "pipeline": {
+    "current_edition": 7,
+    "steps": [
+      {"name": "Research", "status": "pending", "issue": null},
+      {"name": "Draft", "status": "pending", "issue": null},
+      {"name": "Review", "status": "pending", "issue": null}
+    ]
+  },
+  "issues": [
+  {
+    "number": 9,
+    "title": "Research: Existing articles and essays on cultural relativism, 'barbaric' traditions, and moral universalism",
+    "state": "CLOSED",
+    "labels": [
+      "worker",
+      "research"
+    ],
+    "created_at": "2026-04-03T08:54:30Z",
+    "updated_at": "2026-04-04T04:42:40Z"
+  },
+  {
+    "number": 8,
+    "title": "Research: Islam and progressivism - compatibility, coexistence, and Muslim expert perspectives",
+    "state": "CLOSED",
+    "labels": [
+      "worker",
+      "research"
+    ],
+    "created_at": "2026-04-03T08:54:18Z",
+    "updated_at": "2026-04-04T00:41:05Z"
+  },
+  {
+    "number": 7,
+    "title": "Research: History of framing peoples as 'uncivilized' to justify colonization and conquest",
+    "state": "CLOSED",
+    "labels": [
+      "worker",
+      "research"
+    ],
+    "created_at": "2026-04-03T08:54:08Z",
+    "updated_at": "2026-04-03T20:16:17Z"
+  },
+  {
+    "number": 6,
+    "title": "Research: Wayuu tribe traditions regarding women - enclosure, weaving, coming-of-age",
+    "state": "CLOSED",
+    "labels": [
+      "worker",
+      "research"
+    ],
+    "created_at": "2026-04-03T08:53:57Z",
+    "updated_at": "2026-04-03T16:19:33Z"
+  },
+  {
+    "number": 5,
+    "title": "Research: Czech Easter whipping tradition - origins, discourse, and evolution",
+    "state": "CLOSED",
+    "labels": [
+      "worker",
+      "research"
+    ],
+    "created_at": "2026-04-03T08:53:49Z",
+    "updated_at": "2026-04-03T12:23:35Z"
+  },
+  {
+    "number": 2,
+    "title": "Research Bogota neighborhoods",
+    "state": "CLOSED",
+    "labels": [
+      "worker",
+      "research"
+    ],
+    "created_at": "2026-04-02T19:36:03Z",
+    "updated_at": "2026-04-02T20:17:08Z"
+  },
+  {
+    "number": 1,
+    "title": "E2E Test - Fialka Factory Verification",
+    "state": "CLOSED",
+    "labels": [
+      "worker",
+      "research"
+    ],
+    "created_at": "2026-04-02T19:25:52Z",
+    "updated_at": "2026-04-02T19:28:37Z"
+  }
+],
+  "runs": [
+  {
+    "id": 23986659913,
+    "name": "Update Dashboard Data",
+    "conclusion": "",
+    "created_at": "2026-04-04T20:10:06Z"
+  },
+  {
+    "id": 23986656684,
+    "name": "Depot: Worker",
+    "conclusion": "success",
+    "created_at": "2026-04-04T20:09:53Z"
+  },
+  {
+    "id": 23983163095,
+    "name": "Deploy Dashboard",
+    "conclusion": "success",
+    "created_at": "2026-04-04T16:44:05Z"
+  },
+  {
+    "id": 23982621201,
+    "name": "Deploy Dashboard",
+    "conclusion": "success",
+    "created_at": "2026-04-04T16:12:15Z"
+  },
+  {
+    "id": 23982618144,
+    "name": "Depot: Worker",
+    "conclusion": "success",
+    "created_at": "2026-04-04T16:12:02Z"
+  },
+  {
+    "id": 23979178559,
+    "name": "Deploy Dashboard",
+    "conclusion": "success",
+    "created_at": "2026-04-04T12:45:58Z"
+  },
+  {
+    "id": 23978697779,
+    "name": "Deploy Dashboard",
+    "conclusion": "success",
+    "created_at": "2026-04-04T12:16:02Z"
+  },
+  {
+    "id": 23978694205,
+    "name": "Depot: Worker",
+    "conclusion": "success",
+    "created_at": "2026-04-04T12:15:49Z"
+  },
+  {
+    "id": 23975459569,
+    "name": "Deploy Dashboard",
+    "conclusion": "success",
+    "created_at": "2026-04-04T08:44:58Z"
+  },
+  {
+    "id": 23975022953,
+    "name": "Deploy Dashboard",
+    "conclusion": "success",
+    "created_at": "2026-04-04T08:17:05Z"
+  }
+],
+  "updated_at": "2026-04-04T20:10:13Z"
+}
