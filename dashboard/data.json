@@ -5,10 +5,10 @@
     "repo": "david0723/fialka-factory"
   },
   "stats": {
-    "open_tasks": 1,
-    "closed_today": 2,
-    "closed_this_week": 7,
-    "total_closed": 7
+    "open_tasks": 0,
+    "closed_today": 1,
+    "closed_this_week": 8,
+    "total_closed": 8
   },
   "pipeline": {
     "current_edition": 7,
@@ -22,12 +22,12 @@
   {
     "number": 10,
     "title": "write draft for the barbaric article idea based on research",
-    "state": "OPEN",
+    "state": "CLOSED",
     "labels": [
       "worker"
     ],
     "created_at": "2026-04-04T21:14:04Z",
-    "updated_at": "2026-04-04T21:14:04Z"
+    "updated_at": "2026-04-05T00:46:14Z"
   },
   {
     "number": 9,
@@ -109,6 +109,18 @@
 ],
   "runs": [
   {
+    "id": 23991011769,
+    "name": "Update Dashboard Data",
+    "conclusion": "",
+    "created_at": "2026-04-05T00:46:30Z"
+  },
+  {
+    "id": 23990932886,
+    "name": "Depot: Worker",
+    "conclusion": "success",
+    "created_at": "2026-04-05T00:41:16Z"
+  },
+  {
     "id": 23987713559,
     "name": "Update Dashboard Data",
     "conclusion": "cancelled",
@@ -123,7 +135,7 @@
   {
     "id": 23987713522,
     "name": "Update Dashboard Data",
-    "conclusion": "",
+    "conclusion": "success",
     "created_at": "2026-04-04T21:14:09Z"
   },
   {
@@ -155,19 +167,7 @@
     "name": "Deploy Dashboard",
     "conclusion": "success",
     "created_at": "2026-04-04T16:44:05Z"
-  },
-  {
-    "id": 23982621201,
-    "name": "Deploy Dashboard",
-    "conclusion": "success",
-    "created_at": "2026-04-04T16:12:15Z"
-  },
-  {
-    "id": 23982618144,
-    "name": "Depot: Worker",
-    "conclusion": "success",
-    "created_at": "2026-04-04T16:12:02Z"
   }
 ],
-  "updated_at": "2026-04-04T21:14:15Z"
+  "updated_at": "2026-04-05T00:46:38Z"
 }
