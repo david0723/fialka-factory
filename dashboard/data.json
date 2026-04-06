@@ -6,7 +6,7 @@
   },
   "stats": {
     "open_tasks": 0,
-    "closed_today": 1,
+    "closed_today": 0,
     "closed_this_week": 8,
     "total_closed": 8
   },
@@ -109,9 +109,21 @@
 ],
   "runs": [
   {
-    "id": 24010080000,
+    "id": 24014153323,
     "name": "Update Dashboard Data",
     "conclusion": "",
+    "created_at": "2026-04-06T00:41:16Z"
+  },
+  {
+    "id": 24014149732,
+    "name": "Depot: Worker",
+    "conclusion": "success",
+    "created_at": "2026-04-06T00:41:04Z"
+  },
+  {
+    "id": 24010080000,
+    "name": "Update Dashboard Data",
+    "conclusion": "success",
     "created_at": "2026-04-05T20:43:39Z"
   },
   {
@@ -155,19 +167,7 @@
     "name": "Update Dashboard Data",
     "conclusion": "success",
     "created_at": "2026-04-05T12:16:46Z"
-  },
-  {
-    "id": 24001326981,
-    "name": "Depot: Worker",
-    "conclusion": "success",
-    "created_at": "2026-04-05T12:16:33Z"
-  },
-  {
-    "id": 23998025164,
-    "name": "Update Dashboard Data",
-    "conclusion": "success",
-    "created_at": "2026-04-05T08:45:18Z"
   }
 ],
-  "updated_at": "2026-04-05T20:43:45Z"
+  "updated_at": "2026-04-06T00:41:22Z"
 }
