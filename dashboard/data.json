@@ -5,13 +5,13 @@
     "repo": "david0723/fialka-factory"
   },
   "stats": {
-    "open_tasks": 0,
+    "open_tasks": 4,
     "closed_today": 0,
-    "closed_this_week": 8,
-    "total_closed": 8
+    "closed_this_week": 7,
+    "total_closed": 7
   },
   "pipeline": {
-    "current_edition": 7,
+    "current_edition": 8,
     "steps": [
       {"name": "Research", "status": "pending", "issue": null},
       {"name": "Draft", "status": "pending", "issue": null},
@@ -20,14 +20,49 @@
   },
   "issues": [
   {
+    "number": 11,
+    "title": "[Edition 1] Research: Scan travel news and topics",
+    "state": "OPEN",
+    "labels": [
+      "worker",
+      "research"
+    ],
+    "created_at": "2026-04-06T09:27:43Z",
+    "updated_at": "2026-04-06T09:28:26Z"
+  },
+  {
     "number": 10,
     "title": "write draft for the barbaric article idea based on research",
-    "state": "CLOSED",
+    "state": "OPEN",
     "labels": [
-      "worker"
+      "worker",
+      "draft",
+      "revision"
     ],
     "created_at": "2026-04-04T21:14:04Z",
-    "updated_at": "2026-04-05T00:46:14Z"
+    "updated_at": "2026-04-06T09:28:14Z"
+  },
+  {
+    "number": 13,
+    "title": "[Edition 1] Review: Polish blog post",
+    "state": "OPEN",
+    "labels": [
+      "worker",
+      "review"
+    ],
+    "created_at": "2026-04-06T09:27:56Z",
+    "updated_at": "2026-04-06T09:27:56Z"
+  },
+  {
+    "number": 12,
+    "title": "[Edition 1] Draft: Write blog post",
+    "state": "OPEN",
+    "labels": [
+      "worker",
+      "draft"
+    ],
+    "created_at": "2026-04-06T09:27:50Z",
+    "updated_at": "2026-04-06T09:27:50Z"
   },
   {
     "number": 9,
@@ -109,9 +144,21 @@
 ],
   "runs": [
   {
-    "id": 24025611596,
+    "id": 24026597427,
     "name": "Update Dashboard Data",
     "conclusion": "",
+    "created_at": "2026-04-06T09:28:41Z"
+  },
+  {
+    "id": 24026524156,
+    "name": "Depot: Planner",
+    "conclusion": "success",
+    "created_at": "2026-04-06T09:26:12Z"
+  },
+  {
+    "id": 24025611596,
+    "name": "Update Dashboard Data",
+    "conclusion": "success",
     "created_at": "2026-04-06T08:55:11Z"
   },
   {
@@ -155,19 +202,7 @@
     "name": "Update Dashboard Data",
     "conclusion": "success",
     "created_at": "2026-04-06T00:41:16Z"
-  },
-  {
-    "id": 24014149732,
-    "name": "Depot: Worker",
-    "conclusion": "success",
-    "created_at": "2026-04-06T00:41:04Z"
-  },
-  {
-    "id": 24010080000,
-    "name": "Update Dashboard Data",
-    "conclusion": "success",
-    "created_at": "2026-04-05T20:43:39Z"
   }
 ],
-  "updated_at": "2026-04-06T08:55:17Z"
+  "updated_at": "2026-04-06T09:28:48Z"
 }
